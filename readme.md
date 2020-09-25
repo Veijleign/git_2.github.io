@@ -1,4 +1,4 @@
-#this is test school project
+# This is test school project
 
 +show how git works
 +to indroduce with main commands
